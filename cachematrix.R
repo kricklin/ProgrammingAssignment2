@@ -1,13 +1,16 @@
-# R Programming Assignment2 Comments:
-# Modify the two function templates provided by instructor R. Peng, in the
-# assitnment to store a matrix and cache it's inverse.
-#
-# Function "makeCacheMatrix" creates a special "vector" - a list - that
-# contains four functions to:
-# 1) "set" - set the value of the matrix
-# 2) "get" - get the value of the matrix
-# 3) "setinverse" - set the value of the inverse
-# 4) "getinverse" the value of the inverse
+## R Programming Assignment2 Comments:
+##
+## Last Updated 06/20/2015
+##
+## Modify the two function templates provided by instructor R. Peng, in the
+## assignment description to store a matrix and cache it's inverse.
+##
+## Function "makeCacheMatrix" creates a special "vector" - a list - that
+## contains four functions to:
+## 1) "set" - set the value of the matrix
+## 2) "get" - get the value of the matrix
+## 3) "setinverse" - set the value of the inverse
+## 4) "getinverse" the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
