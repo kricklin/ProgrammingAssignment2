@@ -1,6 +1,8 @@
 ## R Programming Assignment2 Comments:
 ##
-## Last Updated 06/20/2015
+## Author: kricklin
+##
+## Last Updated 07/24/2015
 ##
 ## Modify the two function templates provided by instructor R. Peng, in the
 ## assignment description to store a matrix and cache it's inverse.
